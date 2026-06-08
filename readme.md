@@ -85,12 +85,12 @@ Don't hit update yet! Instead, click over to the Stylesheet tab and paste the st
 
 When choosing a custom color, using one of these will help the page look unified.
 
-- <span style="color:#01519b;">■</span> `#01519b` (this is the "cold blue" color variant selected with the theme)
-- <span style="color:#e08e45;">■</span> `#e08e45`
-- <span style="color:#12664f;">■</span> `#12664f`
-- <span style="color:#39a2ae;">■</span> `#39a2ae`
-- <span style="color:#333;">■</span> `#333` (a softer black looks nicer on white than true black)
-- □ `#fff`
+- ■ #01519b (this is the "cold blue" color variant selected with the theme)
+- ■ #e08e45
+- ■ #12664f
+- ■ #39a2ae
+- ■ #333 (a softer black looks nicer on white than true black)
+- □ #fff
 
 ## Slideshows
 
