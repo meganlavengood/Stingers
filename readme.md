@@ -79,7 +79,7 @@ First, when editing the page, click the **<&nbsp;>&nbsp;Source…** button, whic
 </div>
 ```
 
-Don't hit update yet! Instead, click over to the Stylesheet tab and paste the stylesheet text. You can get the stylesheet text here. If that link doesn't work, email Megan <megan@meganlavengood.com>, or copy it from another page on this website.
+Don't hit update yet! Instead, click over to the Stylesheet tab and paste the stylesheet text. [You can get the stylesheet text here](https://github.com/meganlavengood/Stingers/blob/main/stylesheet.css). If that link doesn't work, email Megan <megan@meganlavengood.com>, or copy it from another page on this website.
 
 ## Color palette
 
