@@ -106,12 +106,12 @@ Don't hit update yet! Instead, click over to the Stylesheet tab and paste the st
 
 When choosing a custom color, using one of these will help the page look unified.
 
-- ![#01519b](https://via.placeholder.com/15/01519b/000000?text=+)`#01519b` (this is the "cold blue" color variant selected with the theme)
-- ![#e08e45](https://via.placeholder.com/15/e08e45/000000?text=+)`#e08e45`
-- ![#12664f](https://via.placeholder.com/15/12664f/000000?text=+)`#12664f`
-- ![#39a2ae](https://via.placeholder.com/15/39a2ae/000000?text=+)`#39a2ae`
-- ![#333](https://via.placeholder.com/15/333/000000?text=+)`#333` (a softer black looks nicer on white than true black)
-- ![#fff](https://via.placeholder.com/15/fff/000000?text=+)`#fff`
+- ![#01519b](https://img.shields.io/badge/____-01519b?style=flat-square) `#01519b` (this is the "cold blue" color variant selected with the theme)
+- ![#e08e45](https://img.shields.io/badge/____-e08e45?style=flat-square) `#e08e45`
+- ![#12664f](https://img.shields.io/badge/____-12664f?style=flat-square) `#12664f`
+- ![#39a2ae](https://img.shields.io/badge/____-39a2ae?style=flat-square) `#39a2ae`
+- ![#333](https://img.shields.io/badge/____-333?style=flat-square) `#333` (a softer black looks nicer on white than true black)
+- ![#fff](https://img.shields.io/badge/____-fff?style=flat-square) `#fff`
 
 ## Components
 
