@@ -80,6 +80,10 @@ table {
 	margin-right: auto;
 }
 
+table.nowrap {
+	white-space: nowrap;
+}
+
 th,
 td {
 	padding: 6px 13px;
@@ -143,10 +147,11 @@ div {
 	scroll-behavior: smooth;
 }
 
-/* float right but only on large screens */
+/* make images responsive on mobile--on small screen widths, make images max 100% and automatically change the height */
 
-@media screen and (min-width: 768px) {
-	.float-right {
-		float: right;
+@media screen and (max-width: 576px) {
+	img {
+		max-width: 100%;
+		height: auto !important;
 	}
 }
