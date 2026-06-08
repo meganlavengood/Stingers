@@ -47,9 +47,9 @@ A lot of formatting issues ("I added content and it looks bad and doesn't match 
 
 **To keep the website coherent, it's crucial to only paste unformatted (plain) text.**
 
-    - One good way to remove formatting is to open up a plain-text document in Text Editor (or whatever PC equivalent) and paste it there first.
-    - Again, do not paste directly from another source (an email, a word document, another website, etc.) into the webiste, as this will paste formatting as well.
-    - If you *do* paste from another source, there is a specific button you can press in the text editor to paste plain text only. The icon looks like a clipboard with a capital T. Click this instead of pressing ctrl+V.
+- One good way to remove formatting is to open up a plain-text document in Text Editor (or whatever PC equivalent) and paste it there first.
+- Again, do not paste directly from another source (an email, a word document, another website, etc.) into the webiste, as this will paste formatting as well.
+- If you _do_ paste from another source, there is a specific button you can press in the text editor to paste plain text only. The icon looks like a clipboard with a capital T. Click this instead of pressing ctrl+V.
 
 ### More formatting rules
 
