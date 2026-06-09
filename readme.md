@@ -251,7 +251,7 @@ There are two ways of adding images to a page: with the text editor and with the
 
 1. Upload the photo.
 2. Under **Display mode**, toggle **Absolute.**
-3. Give appropriate sizes for each **display size**. I suggest a width of 750px for desktop and tablet, and 300px for mobile, `with` whatever height is automatically calculated from there.
+3. Give appropriate sizes for each **display size**. I suggest a width of 750px for desktop and tablet, and 300px for mobile, with whatever height is automatically calculated from there.
 4. Add a descriptive alt text that explains what's in the photo. The description should be brief. Do not begin with generic words like "photo of" or "image of"—just describe the content.
 5. Select **center** under **Horizontal alignment** (unless of course you want it aligned left or right for some reason!).
 
