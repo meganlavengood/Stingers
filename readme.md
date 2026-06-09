@@ -7,27 +7,28 @@ Now that the website has been updated, please take care when editing pages to ke
 Jump to:
 
 - [Adding new text to pages](#adding-new-text-to-pages)
-  - [Formatting text in the text editor](#formatting-text-in-the-text-editor)
-  - [Pasting content written somewhere else](#pasting-content-written-somewhere-else)
-  - [More formatting rules](#more-formatting-rules)
-  - [Alert text (yellow background)](#alert-text-yellow-background)
-  - [Text section width](#text-section-width)
-  - [Tables](#tables)
+    - [Formatting text in the text editor](#formatting-text-in-the-text-editor)
+    - [Pasting content written somewhere else](#pasting-content-written-somewhere-else)
+    - [More formatting rules](#more-formatting-rules)
+    - [Alert text (yellow background)](#alert-text-yellow-background)
+    - [Text section width](#text-section-width)
+    - [Tables](#tables)
 - [Creating a new page (not just adding text)](#creating-a-new-page-not-just-adding-text)
+- [Uploading PDFs or other documents](#uploading-pdfs-or-other-documents)
 - [Color palette](#color-palette)
 - [Components](#components)
-  - [Slideshows](#slideshows)
-  - [Slide text](#slide-text)
-    - [Photo tint](#photo-tint)
-  - [Navigation menu](#navigation-menu)
-  - [Command buttons](#command-buttons)
-  - [Partners and Sponsors](#partners-and-sponsors)
-  - [Team logo](#team-logo)
-  - [Contact Us (pool addresses)](#contact-us-pool-addresses)
-  - [Adding components](#adding-components)
+    - [Slideshows](#slideshows)
+    - [Slide text](#slide-text)
+        - [Photo tint](#photo-tint)
+    - [Navigation menu](#navigation-menu)
+    - [Command buttons](#command-buttons)
+    - [Partners and Sponsors](#partners-and-sponsors)
+    - [Team logo](#team-logo)
+    - [Contact Us (pool addresses)](#contact-us-pool-addresses)
+    - [Adding components](#adding-components)
 - [Adding images to pages](#adding-images-to-pages)
-  - [In the text editor](#in-the-text-editor)
-  - [Generic Photo](#generic-photo)
+    - [In the text editor](#in-the-text-editor)
+    - [Generic Photo](#generic-photo)
 - [News and newsletters](#news-and-newsletters)
 
 ## Adding new text to pages
@@ -138,6 +139,10 @@ First, when editing the page, click the **<&nbsp;>&nbsp;Source…** button, whic
 ```
 
 **Don't hit update yet!** Click over to the Stylesheet tab and paste the stylesheet text. [You can copy the stylesheet text here](https://github.com/meganlavengood/Stingers/blob/main/stylesheet.css). If that link doesn't work, email Megan <megan@meganlavengood.com>.
+
+## Uploading PDFs or other documents
+
+Navigate to the [Documents page](https://www.gomotionapp.com/team/reccobcs/page/documents) to upload documents. Follow the instructions there.
 
 ## Color palette
 
